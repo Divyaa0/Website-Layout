@@ -1,0 +1,43 @@
+
+body{
+    background-color: black;
+}
+ul {
+    list-style: none;
+    margin-top: -36px;
+    margin-left: 800px;
+    font-size: 20px;
+}
+
+li {
+    color: white;
+    font-family: Microsoft JhengHei Light;
+    float: left;
+    margin: 20px;
+    margin-top: -20px;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+    
+}
+.anchor:hover{
+    text-shadow: 5px 5px   orange;
+    /* text-decoration:underline purple; */
+}
+.alag{
+width: 90px;
+text-align: center;
+border-radius: 2px;
+background-image: linear-gradient(to right, orange, red, purple);
+height: 30px;
+}
+.head {
+    font-family: Microsoft JhengHei Light;
+    color: orangered;
+    
+    /* font-size: 20px; */
+    text-shadow: 2px 1px 3px white;
+
+
+}
